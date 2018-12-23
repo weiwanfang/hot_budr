@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "783942021271",
+    "firebase_url": "https://hot-budr.firebaseio.com",
+    "project_id": "hot-budr",
+    "storage_bucket": "hot-budr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783942021271:android:a3a03823282d3480",
+        "android_client_info": {
+          "package_name": "com.example.hotbudr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783942021271-9l8eekteasivkcje20n72qtnm28pduio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACG15zfLNx2DAQoOBxdhw-pKvZAl58S1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
